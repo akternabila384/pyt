@@ -1,3 +1,3 @@
-# pyt
+pyt
 # hello python
 # hello world
